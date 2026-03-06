@@ -1,16 +1,18 @@
 ﻿using System;
-using TeamCalculator
 
-class Program
+namespace TeamCalculator
 {
-    static void Main(string[] args)
+    class Program
     {
-        Addition add = new Addition();
-        Subtraction sub = new Subtraction();
-        Multiplication mul = new Multiplication();
+        static void Main(string[] args)
+        {
+            Addition add = new Addition();
+            Subtraction sub = new Subtraction();
+            Multiplication mul = new Multiplication();
 
-        Console.WriteLine("Addition: " + add.DoAddition(10, 5));
-        Console.WriteLine("Subtraction: " + sub.DoSubtraction(10, 5));
-        Console.WriteLine("Multiplication: " + mul.DoMultiplication(10, 5));
+            Console.WriteLine("Addition: " + add.DoAddition(10, 5));
+            Console.WriteLine("Subtraction: " + sub.DoSubtraction(10, 5));
+            Console.WriteLine("Multiplication: " + mul.DoMultiplication(10, 5));
+        }
     }
 }
