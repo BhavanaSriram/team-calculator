@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SriramBhavana\\Desktop\\TeamCalculator\\TeamCalculator.csproj": {}
+    "C:\\Git Project\\team-calculator\\TeamCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SriramBhavana\\Desktop\\TeamCalculator\\TeamCalculator.csproj": {
+    "C:\\Git Project\\team-calculator\\TeamCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SriramBhavana\\Desktop\\TeamCalculator\\TeamCalculator.csproj",
+        "projectUniqueName": "C:\\Git Project\\team-calculator\\TeamCalculator.csproj",
         "projectName": "TeamCalculator",
-        "projectPath": "C:\\Users\\SriramBhavana\\Desktop\\TeamCalculator\\TeamCalculator.csproj",
-        "packagesPath": "C:\\Users\\SriramBhavana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SriramBhavana\\Desktop\\TeamCalculator\\obj\\",
+        "projectPath": "C:\\Git Project\\team-calculator\\TeamCalculator.csproj",
+        "packagesPath": "C:\\Users\\DhanaNagaRajuSiriyal\\.nuget\\packages\\",
+        "outputPath": "C:\\Git Project\\team-calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SriramBhavana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DhanaNagaRajuSiriyal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
