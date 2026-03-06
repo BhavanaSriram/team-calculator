@@ -1,0 +1,15 @@
+C:\Users\SriramBhavana\Desktop\TeamCalculator\obj\Debug\net10.0\TeamCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SriramBhavana\Desktop\TeamCalculator\obj\Debug\net10.0\TeamCalculator.AssemblyInfoInputs.cache
+C:\Users\SriramBhavana\Desktop\TeamCalculator\obj\Debug\net10.0\TeamCalculator.AssemblyInfo.cs
+C:\Users\SriramBhavana\Desktop\TeamCalculator\obj\Debug\net10.0\TeamCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SriramBhavana\Desktop\TeamCalculator\obj\Debug\net10.0\TeamCalculator.sourcelink.json
+C:\Users\SriramBhavana\Desktop\TeamCalculator\bin\Debug\net10.0\TeamCalculator.exe
+C:\Users\SriramBhavana\Desktop\TeamCalculator\bin\Debug\net10.0\TeamCalculator.deps.json
+C:\Users\SriramBhavana\Desktop\TeamCalculator\bin\Debug\net10.0\TeamCalculator.runtimeconfig.json
+C:\Users\SriramBhavana\Desktop\TeamCalculator\bin\Debug\net10.0\TeamCalculator.dll
+C:\Users\SriramBhavana\Desktop\TeamCalculator\bin\Debug\net10.0\TeamCalculator.pdb
+C:\Users\SriramBhavana\Desktop\TeamCalculator\obj\Debug\net10.0\TeamCalculator.dll
+C:\Users\SriramBhavana\Desktop\TeamCalculator\obj\Debug\net10.0\refint\TeamCalculator.dll
+C:\Users\SriramBhavana\Desktop\TeamCalculator\obj\Debug\net10.0\TeamCalculator.pdb
+C:\Users\SriramBhavana\Desktop\TeamCalculator\obj\Debug\net10.0\TeamCalculator.genruntimeconfig.cache
+C:\Users\SriramBhavana\Desktop\TeamCalculator\obj\Debug\net10.0\ref\TeamCalculator.dll
