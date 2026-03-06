@@ -10,7 +10,7 @@ namespace MultiplicationDemo
             this.num1 = num1;
             this.num2 = num2;
         }
-        public int doMultiplication(int num1, int nums2)
+        public int doMultiplication(int num1, int num2)
         {
             return num1 * num2;
         }
